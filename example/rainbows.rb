@@ -1,4 +1,3 @@
-
 worker_processes 4 # assuming four CPU cores
 preload_app      true
 
